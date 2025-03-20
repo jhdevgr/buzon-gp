@@ -2,12 +2,14 @@ import Buzon from './buzon.js';
 
 (function() {
   const persons = [
-    { name: 'José Manuel', avatar: './img/pacman2.png' },
+    { name: 'Javi Riesco', avatar: './img/pacman2.png' },
+    { name: 'Jorge González', avatar: './img/pacman2.png' },
+    { name: 'Sauri', avatar: './img/pacman2.png' },
+    { name: 'Artur', avatar: './img/pacman2.png' },
+    { name: 'Javi Rodríguez', avatar: './img/pacman2.png' },
     { name: 'Julián', avatar: './img/pacman2.png' },
     { name: 'Jesús', avatar: './img/pacman2.png' },
     { name: 'Marcos', avatar: './img/pacman2.png' },
-    { name: 'Javi', avatar: './img/pacman2.png' },
-    { name: 'Jorge González', avatar: './img/pacman2.png' },
   ];
 
   const $mainImage = document.querySelector('#main-image');
